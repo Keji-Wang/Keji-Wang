@@ -9,7 +9,7 @@ Consultant in trade-secret protection & information security. Everything here co
 | 项目 | 一句话 |
 |---|---|
 | **[wkj-human](https://github.com/Keji-Wang/wkj-human)** | 面向商业写作的人味审阅与最小化改写——先审后改，区分套路与手迹，附正式材料口径质检 |
-| **[wkj-insight-distiller](https://github.com/Keji-Wang/wkj-insight-distiller)** | 把访谈、会议纪要、转录整理成"每句话都能回到出处"的洞察备忘录 |
+| **[wkj-insight-distiller](https://github.com/Keji-Wang/wkj-insight-distiller)** | 把访谈、会议纪要、转录整理成洞察备忘录：每条判断标注出处类型（原话/解读/已验证/开放假设），可回溯、可核查 |
 
 ## 🎯 训练工具（纯前端 · 免安装）
 
