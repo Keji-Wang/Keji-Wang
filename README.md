@@ -24,4 +24,4 @@ Consultant in trade-secret protection & information security. Everything here co
 - **诚实工程**：每仓公开验证状态与局限（`docs/validation.md`），不宣称未实测的兼容性。
 - **站在肩膀上**：借鉴边界与上游致敬逐项写在各仓 `SOURCES.md`，License 均为 MIT。
 
-联系：X [@JiafuWang](https://x.com/JiafuWang) · 问题与建议优先走各仓 Issues。
+联系：X [@JiafuWang](https://x.com/JiafuWang) · 邮箱 [keji.dev@outlook.com](mailto:keji.dev@outlook.com) · 问题与建议优先走各仓 Issues。
