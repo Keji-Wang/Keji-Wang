@@ -1,8 +1,8 @@
-# Keji-Wang
+# Keji-Wang (Jeffrey Wang)
 
-管理咨询从业者，主业是商业秘密保护与信息安全咨询。这个账号开源的都是真实交付中打磨出来、自己天天在用的工具。
+X 上的王柯基（[@JiafuWang](https://x.com/JiafuWang)）。管理咨询从业者，主业是商业秘密保护与信息安全咨询；这里放一些从实际工作、个人需求和日常实验中沉淀出来的小工具与 Agent Skills。
 
-Consultant in trade-secret protection & information security. Everything here comes from real client work and gets actual day-to-day use.
+Consultant in trade-secret protection & information security. What you'll find here: small tools and Agent Skills that grew out of real work, personal needs, and everyday experiments.
 
 ## 🧩 Agent Skills
 
@@ -20,8 +20,8 @@ Consultant in trade-secret protection & information security. Everything here co
 
 ## 做法上的几个坚持
 
-- **开源的是验证过的工作方式**：每个 skill 都在真实商业交付中迭代过；示例与数据全部为虚构。
-- **诚实工程**：每仓公开验证状态与局限（`docs/validation.md`），不宣称未实测的兼容性。
-- **站在肩膀上**：借鉴边界与上游致敬逐项写在各仓 `SOURCES.md`，License 均为 MIT。
+- **两个 Agent Skill 都在真实交付中迭代过**：示例与数据全部为虚构。
+- **诚实工程**：skill 仓公开验证状态与局限（`docs/validation.md`），不宣称未实测的兼容性；两个工具仓是轻量 Demo，不背同一套工程配套，能力以页面实际呈现为准。
+- **站在肩膀上**：借鉴边界与上游致敬逐项写在 skill 仓的 `SOURCES.md`；License 均为 MIT。
 
 联系：X [@JiafuWang](https://x.com/JiafuWang) · 邮箱 [keji.dev@outlook.com](mailto:keji.dev@outlook.com) · 问题与建议优先走各仓 Issues。
